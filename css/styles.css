@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+
+}
+
+.top-container {
+  background-color: #D6E4E5;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-left: 50px;
+}
+
+.bottom-container{
+  background-color: #D6E4E5;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.sub-headings {
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px 0 50px 0;
+  text-align: center;
+}
+
+.skills {
+  text-align: center;
+}
+
+
+
+
+.soft-dev {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn {
+  background: #171717;
+  background-image: -webkit-linear-gradient(top, #171717, #1f2021);
+  background-image: -moz-linear-gradient(top, #171717, #1f2021);
+  background-image: -ms-linear-gradient(top, #171717, #1f2021);
+  background-image: -o-linear-gradient(top, #171717, #1f2021);
+  background-image: linear-gradient(to bottom, #171717, #1f2021);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.but {
+  padding: 20px 0px 20px 0px;
+}
+
+.web-img {
+  float: left;
+  width: 25%;
+  margin:auto 20px;
+}
+
+.soft-img {
+  float: right;
+  width: 25%;
+  margin:auto 20px;
+}
+
+.main-img{
+  float: left;
+  width: 25%;
+  margin:auto 20px;
+}
+.services{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
